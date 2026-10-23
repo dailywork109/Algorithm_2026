@@ -26,6 +26,11 @@
 ### Homework2
 
 [Sorting Animation](./homework/SortingAnimation.pde)
+![Alt homework22](./homework/sorting_animation.png)
 
-[Array](./homework/Array.pde)
-![Alt homework2](./homework/sorting_animation.png)
+
+
+### Homework3
+
+[BinarySearchTree](./homework/BinarySearchTree.pde)
+![Alt homework33](./homework/BinarySearchTree.png)
