@@ -7,18 +7,18 @@
 [BubbleSorting](./homework/Bubble_sort.pde)
 ![Alt homework11](./homework/2026-09-10-114430.png)
 
-[BubbleSorting](./homework/Insertion_sort.pde)
+[InsertionSorting](./homework/Insertion_sort.pde)
 ![Alt homework11](./homework/insertion.png)
 
-[BubbleSorting](./homework/Merge_sort.pde)
+[MergeSorting](./homework/Merge_sort.pde)
 ![Alt homework11](./homework/merge.png)
 
 
-[BubbleSorting](./homework/Quick_sort.pde)
+[QuickSorting](./homework/Quick_sort.pde)
 ![Alt homework11](./homework/quick.png)
 
 
-[BubbleSorting](./homework/Heap_sort.pde)
+[HeapSorting](./homework/Heap_sort.pde)
 ![Alt homework11](./homework/heap.png)
 
 
@@ -26,5 +26,5 @@
 ### Homework2
 
 [Sorting Animation](./homework/SortingAnimation.pde)
-[Sorting Animation](./homework/Array.pde)
-![Alt homework2](./homework/sortinganimation.png)
+[Array](./homework/Array.pde)
+![Alt homework2](./homework/sorting_animation.png)
