@@ -20,3 +20,11 @@
 
 [BubbleSorting](./homework/Heap_sort.pde)
 ![Alt homework11](./homework/heap.png)
+
+
+
+### Homework2
+
+[Sorting Animation](./homework/SortingAnimation.pde)
+[Sorting Animation](./homework/Array.pde)
+![Alt homework2](./homework/sortinganimation.png)
