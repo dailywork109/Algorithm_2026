@@ -34,3 +34,10 @@
 
 [BinarySearchTree](./homework/BinarySearchTree.pde)
 ![Alt homework33](./homework/BinarySearchTree.png)
+
+
+
+### Homework4
+
+[Calculator](./homework/calculator.pde)
+![Alt homework44](./homework/calculator.png)
