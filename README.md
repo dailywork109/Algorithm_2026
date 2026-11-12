@@ -46,4 +46,11 @@
 
 ### Homework5
 
+[Pebble Placement Problem](./homework/)
+![Alt homework55](./homework/)
 
+
+### Homework6
+
+[BFS and DFS for a graph](./homework/)
+!![Alt homework66](./homework/)
