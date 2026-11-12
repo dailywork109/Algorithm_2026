@@ -52,5 +52,5 @@
 
 ### Homework6
 
-[BFS and DFS for a graph](./homework/)
-!![Alt homework66](./homework/)
+[BFS and DFS for a graph](./homework/BFS and DFS for a graph.pde)
+!![Alt homework66](./homework/BFS and DFS for a graph.png)
